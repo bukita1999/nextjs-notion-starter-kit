@@ -7,13 +7,13 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Bukita Crying',
+  name: 'BUuuBuuu Blog',
   domain: 'https://www.notion.so/Bukita-2122bc2821d64c938ba059fc0b564a6d',
   author: 'Bukita',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'BUuuBUuu',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
@@ -23,7 +23,7 @@ module.exports = {
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: Bukita,
+  defaultPageIcon: null,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
