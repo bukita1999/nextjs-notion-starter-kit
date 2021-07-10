@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '30a7804069b24fb1865d19211e8ae325',
+  rootNotionPageId: '60ed7ad2d42f49b49682cd145be8463a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'BUuuBuuu Blog',
-  domain: 'https://www.notion.so/BUuuBUuu-30a7804069b24fb1865d19211e8ae325',
+  domain: 'https://www.notion.so/BUuuBUuu-60ed7ad2d42f49b49682cd145be8463a',
   author: 'Bukita',
 
   // open graph metadata (optional)
